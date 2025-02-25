@@ -1,0 +1,42 @@
+.nav-link{
+    color: black;
+    transition: .4s ease;
+}
+.nav-link:hover{
+    color: #f6d54e;
+}
+.homeBanner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url('./assets/img/img-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.box{
+    height: 78vh;
+    background-color: #f6d54e;
+}
+.box1{
+    background: url('./assets/img/img-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box2{
+    background: url('./assets/img/img-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box3{
+    background: url('./assets/img/img-4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box4{
+    background: url('./assets/img/img-5.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
